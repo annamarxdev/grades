@@ -1,0 +1,1 @@
+This program receives two grades from a student (values ​​from 0 to 10), calculates the simple arithmetic mean, and informs the student whether they passed (average greater than or equal to 7) or failed (average less than 7).
